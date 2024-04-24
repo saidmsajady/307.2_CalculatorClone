@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(245, 243, 245);
+}
+
+td, th {
+    border: 1px solid rgb(251, 45, 27);
+}
+
+thead {
+    text-align: right;
+}
+
+table {
+    width: 200px;
+    height: 300px;
+    text-align: center;
+    border: 5px solid green;
+ }
+ 
+ td:hover {
+    background-color: lightcoral;
+    color: white;
+}
